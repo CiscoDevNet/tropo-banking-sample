@@ -13,7 +13,7 @@ The script is self-contained, can be used concurrently, is commented, and can be
 
 ##Caveats: The script does not work with SMS; invalid input and other error checking is minimal and may cause unexpected behaviour.
 
-##ow to Run the Demo:
+##How to Run the Demo:
 
 - Upload the script to your Tropo account as a new script, and assign it a phone # (note: outbound calling must be enabled)
 - Call the script phone #
